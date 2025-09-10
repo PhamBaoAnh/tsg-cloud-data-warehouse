@@ -14,25 +14,6 @@ The data warehouse is built on **Amazon Web Services (AWS)**, using the followin
 
 ---
 
-## 📊 Data Analytics & Techniques
-
-The project integrates multiple data analytics techniques and machine learning models:
-
-- 🔗 **Association Rule Mining**  
-  - Apriori Algorithm  
-  - FP-Growth Algorithm  
-
-- 👥 **Customer Segmentation**  
-  - RFM (Recency, Frequency, Monetary) Analysis  
-  - K-Means Clustering  
-
-- 📈 **Time Series Forecasting**  
-  - Prophet Model (by Meta)
-
-- 📊 **Data Visualization**  
-  - Interactive reports and dashboards built with **Power BI**
-
----
 
 ## 🎯 Project Objectives
 
